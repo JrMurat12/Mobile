@@ -1,3 +1,6 @@
+//Link video app em funcionamento: https://youtu.be/CVzw8DzQZcw
+//Aluno: Jefferson Pereira Murat Junior RA: 200761
+
 package com.example.ac2;
 
 import androidx.annotation.Nullable;
