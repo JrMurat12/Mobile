@@ -1,3 +1,9 @@
+//Trabalho AF
+//Grupo:
+//Jefferson Pereira Murat Junior. RA: 200761
+//Eduarda Rusconi Santana. RA: 211552
+//Link vídeo: https://youtu.be/Fh1XpZxy56w
+
 package com.example.afmobile;
 
 import androidx.annotation.Nullable;
